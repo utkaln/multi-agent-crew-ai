@@ -1,0 +1,6 @@
+python-dotenv
+crewai
+crewai_tools
+pydantic
+
+
